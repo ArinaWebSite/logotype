@@ -970,8 +970,7 @@ body::after {
 }
 
 .news__blog:not(:last-child) {
-  margin-bottom: 15px;
-  margin-top: 45px;
+  margin-bottom: 25px;
 }
 
 /* маленькое окошко */
